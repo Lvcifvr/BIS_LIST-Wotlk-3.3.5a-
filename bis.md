@@ -19,6 +19,7 @@
 | Trinket         | [Glowing Twilight Scale](https://wotlk.evowow.com/?item=54589)                         | Halion 25HC                |
 | Main Hand       | [Val'anyr, Hammer of Ancient Kings](https://wotlk.evowow.com/?item=46017)              | Ulduar Quest Line          |
 | Main Hand (Alt) | [Trauma](https://wotlk.evowow.com/?item=50685)                                         | Rotface 25HC               |
+| Main Hand (Alt) | [Royal Scepter of Terenas II(https://wotlk.evowow.com/?item=50734)                     | Lich King 25HC             |
 | Off Hand        | [Bulwark of Smouldering Steel](https://wotlk.evowow.com/?item=50616)                   | Marrowgar 25HC             |
 | Totem           | [Bizuri's Totem of Shattered Ice](https://wotlk.evowow.com/?item=50458)                | Vendor                     |
 
@@ -248,7 +249,7 @@
 | Corpse Tongue Coin    | Avoidance           |
 
 
-# Warlock BiS List
+# Warlock BiS List (Outdated)
 
 |  Slot           | Name                                                                                   | Source                     |
 |-----------------|----------------------------------------------------------------------------------------|----------------------------|
@@ -404,13 +405,13 @@
 
 # Paladin BIS List
 
-## Retribution Paladin
+## Retribution Paladin (Strength)
 |  Slot           | Name                                                                                   | Source                     |
 |-----------------|----------------------------------------------------------------------------------------|----------------------------|
 | Head            | [Sanctified Lightsworn Helmet](https://wotlk.evowow.com/?item=51277)                   | Vendor                     |
 | Neck            | [Penumbra Pendant](https://wotlk.evowow.com/?item=54581)                               | Halion 25HC                |
 | Shoulders       | [Sanctified Lightsworn Shoulderplates](https://wotlk.evowow.com/?item=51279)           | Vendor                     |
-| Back            | [Shadowvault Slayer's Cloak](https://wotlk.evowow.com/?item=50653)                     | Gunship Battle 25HC        |
+| Back            | [Winding Sheet](https://wotlk.evowow.com/?item=50653)                                  | Gunship Battle 25HC        |
 | Chest           | [Sanctified Lightsworn Battleplate](https://wotlk.evowow.com/?item=51275)              | Vendor                     |
 | Wrists          | [Umbrage Armbands](https://wotlk.evowow.com/?item=54580)                               | Halion 25HC                |
 | Wrists (Alt)    | [Polar Bear Claw Bracers](https://wotlk.evowow.com/?item=50659)                        | Gunship Battle 25HC        |
@@ -426,6 +427,31 @@
 | Trinket         | [Tiny Abomination in a Jar](https://wotlk.evowow.com/?item=50706)                      | Professor Putricide 25HC   |
 | Main Hand       | [Shadowmourne](https://wotlk.evowow.com/?item=49623)                                   | Shadowmourne Questline     |
 | Main Hand (Alt) | [Glorenzelg, High-Blade of the Silver Hand](https://wotlk.evowow.com/?item=50730)      | Lich King 25HC             |
+| Main Hand (Alt) | [Oathbinder, Charge of the Range-General](https://wotlk.evowow.com/?item=50735)        | Lich King 25HC             |
+| Libram          | [Libram of Three Truths](https://wotlk.evowow.com/?item=50455)                         | Vendor                     |
+
+# Paladin BIS List
+
+## Retribution Paladin (Agility)
+|  Slot           | Name                                                                                   | Source                     |
+|-----------------|----------------------------------------------------------------------------------------|----------------------------|
+| Head            | [Sanctified Lightsworn Helmet](https://wotlk.evowow.com/?item=51277)                   | Vendor                     |
+| Neck            | [Penumbra Pendant](https://wotlk.evowow.com/?item=54581)                               | Halion 25HC                |
+| Shoulders       | [Sanctified Lightsworn Shoulderplates](https://wotlk.evowow.com/?item=51279)           | Vendor                     |
+| Back            | [Shadowvault Slayer's Cloak](https://wotlk.evowow.com/?item=50677)                     | Gunship Battle 25HC        |
+| Chest           | [Sanctified Lightsworn Battleplate](https://wotlk.evowow.com/?item=51275)              | Vendor                     |
+| Wrists          | [Umbrage Armbands](https://wotlk.evowow.com/?item=54580)                               | Halion 25HC                |
+| Wrists (Alt)    | [Polar Bear Claw Bracers](https://wotlk.evowow.com/?item=50659)                        | Gunship Battle 25HC        |
+| Hands           | [Fleshrending Gauntlets](https://wotlk.evowow.com/?item=50690)                         | Festergut 25HC             |
+| Waist           | [Astrylian's Sutured Cinch](https://wotlk.evowow.com/?item=50707)                      | Professor Putricide 25HC   |
+| Legs            | [Sanctified Lightsworn Legplates](https://wotlk.evowow.com/?item=51278)                | Vendor                     |
+| Feet            | [Apocalypse's Advance](https://wotlk.evowow.com/?item=54578)                           | Halion 25HC                |
+| Finger          | [Ashen Band of Endless Vengeance](https://wotlk.evowow.com/?item=50402)                | ICC Reputation             |
+| Finger (Alt)    | [Seal of Many Mouths](https://wotlk.evowow.com/?item=50678)                            | Rotface 25HC               |
+| Finger (Alt)    | [Signet of Twilight](https://wotlk.evowow.com/?item=54576)                             | Halion 25HC                |
+| Trinket         | [Sharpened Twilight Scale](https://wotlk.evowow.com/?item=54590)                       | Halion 25HC                |
+| Trinket         | [Tiny Abomination in a Jar](https://wotlk.evowow.com/?item=50706)                      | Professor Putricide 25HC   |
+| Main Hand       | [Shadowmourne](https://wotlk.evowow.com/?item=49623)                                   | Shadowmourne Questline     |
 | Main Hand (Alt) | [Oathbinder, Charge of the Range-General](https://wotlk.evowow.com/?item=50735)        | Lich King 25HC             |
 | Libram          | [Libram of Three Truths](https://wotlk.evowow.com/?item=50455)                         | Vendor                     |
 
@@ -454,7 +480,7 @@
 | Off Hand        | [Bulwark of Smouldering Steel](https://wotlk.evowow.com/?item=50616)                   | Marrowgar 25HC             |
 | Libram          | [Libram of Renewal](https://wotlk.evowow.com/?item=40705)                              | Vendor                     |
 
-## Protection Paladin
+## Protection Paladin 
 |  Slot           | Name                                                                                   | Source                     |
 |-----------------|--------------------------------------------------------------------------------------- |----------------------------|
 | Head            | [Broken Ram Skull Helm](https://wotlk.evowow.com/?item=50640)                          | Lady Deathwhisper 25HC     |
@@ -491,6 +517,7 @@
 | Legs            | [Plaguebringer's Stained Pants](https://wotlk.evowow.com/?item=50694)                  | Festergut 25HC             |
 | Feet            | [Plague Scientist's Boots](https://wotlk.evowow.com/?item=50699)                       | Festergut 25HC             |
 | Finger          | [Ring of Rapid Ascent](https://wotlk.evowow.com/?item=50664)                           | Gunship Battle 25HC        |
+| Finger   (Alt)  | [Valanar Other Signet Ring(https://wotlk.evowow.com/?item=50714)                       | Blood Prince Council       |
 | Finger          | [Ashen Band of Endless Destruction](https://wotlk.evowow.com/?item=50398)              | Vendor                     |
 | Trinket         | [Charred Twilight Scale](https://wotlk.evowow.com/?item=54588)                         | Halion 25HC                |
 | Trinket         | [Dislodged Foreign Object](https://wotlk.evowow.com/?item=50348)                       | Rotface 25HC               |
@@ -514,6 +541,7 @@
 | Feet            | [Plague Scientist's Boots](https://wotlk.evowow.com/?item=50699)                       | Festergut 25HC             |
 | Finger          | [Ring of Maddening Whispers](https://wotlk.evowow.com/?item=50644)                     | Lady Deathwhisper 25HC     |
 | Finger          | [Memory of Malygos](https://wotlk.evowow.com/?item=50636)                              | Sindragosa 25HC            |
+| Finger (Alt)    | [Ring of Rapid Ascent](https://wotlk.evowow.com/?item=50664)                           | Gunship 25HC               |
 | Trinket         | [Althor's Abacus](https://wotlk.evowow.com/?item=50366)                                | Gunship Battle 25HC        |
 | Trinket         | [Glowing Twilight Scale](https://wotlk.evowow.com/?item=54589)                         | Halion 25HC                |
 | Main Hand       | [Royal Scepter of Terenas II](https://wotlk.evowow.com/?item=50734)                    | Lich King 25HC             |
@@ -539,8 +567,12 @@
 | Finger          | [Memory of Malygos](https://wotlk.evowow.com/?item=50636)                              | Sindragosa 25HC            |
 | Trinket         | [Althor's Abacus](https://wotlk.evowow.com/?item=50366)                                | Gunship Battle 25HC        |
 | Trinket         | [Glowing Twilight Scale](https://wotlk.evowow.com/?item=54589)                         | Halion 25HC                |
+| Trinket         | [Solace of the Defeated](https://wotlk.evowow.com/?item=47059)                         | Jaraxxus 25HC              |
 | Main Hand       | [Archus, Greatstaff of Antonidas](https://wotlk.evowow.com/?item=50731)                | Lich King 25HC             |
+| Main Hand       | [Royal Scepter of Terenas II](https://wotlk.evowow.com/?item=50734)                    | Lich King 25HC             |
+| Off Hand        | [Sundial of Eternal Disk](https://wotlk.evowow.com/?item=50635)                        | Sindragosa 25HC            |
 | Wand            | [Nightmare Ender](https://wotlk.evowow.com/?item=50631)                                | Valithria Dreamwalker 25HC |
+
 
 # Rogue BIS List
 
@@ -589,24 +621,3 @@
 | Main Hand       | [Heaven's Fall, Kryss of a Thousand Lies](https://wotlk.evowow.com/?item=50736)        | Lich King 25HC             |
 | Off Hand        | [Lungbreaker](https://wotlk.evowow.com/?item=50621)                                    | Valtheria Dreamwalker 25HC |
 | Ranged          | [Fal'inrush, Defender of Quel'thalas](https://wotlk.evowow.com/?item=50733)            | Lich King 25HC             |
-
-## Template
-|  Slot           | Name                                                                                   | Source                     |
-|-----------------|--------------------------------------------------------------------------------------- |----------------------------|
-| Head            | []()                                                                                   |                            |
-| Neck            | []()                                                                                   |                            |
-| Shoulders       | []()                                                                                   |                            |
-| Back            | []()                                                                                   |                            |
-| Chest           | []()                                                                                   |                            |
-| Wrists          | []()                                                                                   |                            |
-| Hands           | []()                                                                                   |                            |
-| Waist           | []()                                                                                   |                            |
-| Legs            | []()                                                                                   |                            |
-| Feet            | []()                                                                                   |                            |
-| Finger          | []()                                                                                   |                            |
-| Finger          | []()                                                                                   |                            |
-| Trinket         | []()                                                                                   |                            |
-| Trinket         | []()                                                                                   |                            |
-| Main Hand       | []()                                                                                   |                            |
-| Off Hand        | []()                                                                                   |                            |
-| Totem           | []()                                                                                   |                            |
