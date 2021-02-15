@@ -419,6 +419,7 @@
 | Waist           | [Astrylian's Sutured Cinch](https://wotlk.evowow.com/?item=50707)                      | Professor Putricide 25HC   |
 | Legs            | [Sanctified Lightsworn Legplates](https://wotlk.evowow.com/?item=51278)                | Vendor                     |
 | Feet            | [Apocalypse's Advance](https://wotlk.evowow.com/?item=54578)                           | Halion 25HC                |
+| Feet   (Alt)    | [Blood-Soaked Saronite Stompers](https://wotlk.evowow.com/?item=50639)                 | Lady Deathwhisper 25HC     |
 | Finger          | [Ashen Band of Endless Vengeance](https://wotlk.evowow.com/?item=50402)                | ICC Reputation             |
 | Finger (Alt)    | [Ashen Band of Endless Might](https://wotlk.evowow.com/?item=52572)                    | ICC Reputation             |
 | Finger          | [Signet of Twilight](https://wotlk.evowow.com/?item=54576)                             | Halion 25HC                |
