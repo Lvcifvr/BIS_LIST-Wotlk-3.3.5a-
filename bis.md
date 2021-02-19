@@ -367,7 +367,7 @@
 | Neck            | [Blood Queen's Crimson Choker](https://wotlk.evowow.com/?item=50724)                   | Blood Queen Lana'thel 25HC |
 | Shoulders       | [Sanctified Bloodmage Shoulderpads](https://wotlk.evowow.com/?item=51284)              | Vendor                     |
 | Back            | [Cloak of Burning Dusk](https://wotlk.evowow.com/?item=54583)                          | Halion 25HC                |
-| Chest           | [Sanctified Bloodmage Robe](https://wotlk.evowow.com/?item=51283)                      | Vendor                     |
+| Chest           | [Robe of the Waking Nightmare](https://wotlk.evowow.com/?item=50629)                   | Valithria Dreamwalker 25HC |
 | Wrists          | [Bracers of Fiery Night](https://wotlk.evowow.com/?item=54582)                         | Halion 25HC                |
 | Hands           | [Sanctified Bloodmage Gloves](https://wotlk.evowow.com/?item=51280)                    | Vendor                     |
 | Waist           | [Crushing Coldwraith Belt](https://wotlk.evowow.com/?item=50613)                       | Marrowgar 25HC             |
@@ -396,6 +396,7 @@
 | Feet            | [Plague Scientist's Boots](https://wotlk.evowow.com/?item=50699)                       | Festergut 25HC             |
 | Finger          | [Loop of the Endless Labyrinth](https://wotlk.evowow.com/?item=50614)                  | Marrowgar 25HC             |
 | Finger (Alt)    | [Ring of Rapid Ascent](https://wotlk.evowow.com/?item=50664)                           | Gunship Battle 25HC        |
+| Finger (Alt)    | [Valanar Other Signet Ring](https://wotlk.evowow.com/?item=50714)                      | Blood Prince Council 25HC  |
 | Finger          | [Ashen Band of Endless Destruction](https://wotlk.evowow.com/?item=50398)              | ICC Reputation             |
 | Trinket         | [Charred Twilight Scale](https://wotlk.evowow.com/?item=54588)                         | Halion 25HC                |
 | Trinket         | [Dislodged Foreign Object](https://wotlk.evowow.com/?item=50348)                       | Rotface 25HC               |
@@ -620,5 +621,29 @@
 | Trinket         | [Sharpened Twilight Scale](https://wotlk.evowow.com/?item=54590)                       | Halion 25HC                |
 | Trinket         | [Tiny Abomination in a Jar](https://wotlk.evowow.com/?item=50706)                      | Professor Putricide 25HC   |
 | Main Hand       | [Heaven's Fall, Kryss of a Thousand Lies](https://wotlk.evowow.com/?item=50736)        | Lich King 25HC             |
-| Off Hand        | [Lungbreaker](https://wotlk.evowow.com/?item=50621)                                    | Valtheria Dreamwalker 25HC |
+| Off Hand        | [Lungbreaker](https://wotlk.evowow.com/?item=50621)                                    | Valthria Dreamwalker 25HC  |
 | Ranged          | [Fal'inrush, Defender of Quel'thalas](https://wotlk.evowow.com/?item=50733)            | Lich King 25HC             |
+
+## Spell-Enchance Shaman (Under-Construction)
+
+|  Slot           | Name                                                                                   | Source                     |
+|-----------------|--------------------------------------------------------------------------------------- |----------------------------|
+| Head            | [Sanctified Frost Witch's Faceguard](https://wotlk.evowow.com/?item=50713)             | Vendor                     |
+| Neck            | [Amulet of the Silent Eulogy](https://wotlk.evowow.com/?item=50633)                    | Gunship 25HC               |
+| Shoulders       | [Sanctified Frost Witch's Shoulderguards](https://wotlk.evowow.com/?item=50646)        | Vendor                     |
+| Back            | [Cloak of Burning Dusk](https://wotlk.evowow.com/?item=50653)                          | Halion 25HC                |
+| Chest           | [Sanctified Frost Witch's Chestguard](https://wotlk.evowow.com/?item=50656)            | Vendor                     |
+| Wrists          | [Umbrage Armbands](https://wotlk.evowow.com/?item=54580)                               | Halion 25HC                |
+| Hands           | [Sanctified Shadowblades Gauntlets](https://wotlk.evowow.com/?item=51251)              | Vendor                     |
+| Waist           | [Belt of the Merciless Killer](https://wotlk.evowow.com/?item=47112)                   | Fjola Lightbane 25HC       |
+| Waist (Alt)     | [Astrylian's Sutured Cinch](https://wotlk.evowow.com/?item=50707)                      | Professor Putricide 25HC   |
+| Legs            | [Sanctified Shadowblade Legplates](https://wotlk.evowow.com/?item=51253)               | Vendor                     |
+| Feet            | [Frostbitten Fur Boots](https://wotlk.evowow.com/?item=50607)                          | Marrowgar 25HC             |
+| Finger          | [Ashen Band of Endless Vengeance](https://wotlk.evowow.com/?item=50402)                | ICC Reputation             |
+| Finger (Alt)    | [Signet of Twilight](https://wotlk.evowow.com/?item=54576)                             | Halion 25HC                |
+| Trinket         | [Sharpened Twilight Scale](https://wotlk.evowow.com/?item=54590)                       | Halion 25HC                |
+| Trinket         | [Tiny Abomination in a Jar](https://wotlk.evowow.com/?item=50706)                      | Professor Putricide 25HC   |
+| Main Hand       | [Heaven's Fall, Kryss of a Thousand Lies](https://wotlk.evowow.com/?item=50736)        | Lich King 25HC             |
+| Off Hand        | [Lungbreaker](https://wotlk.evowow.com/?item=50621)                                    | Valthria Dreamwalker 25HC  |
+| Ranged          | [Fal'inrush, Defender of Quel'thalas](https://wotlk.evowow.com/?item=50733)            | Lich King 25HC             |
+
